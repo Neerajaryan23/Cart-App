@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro M3",
+      "price": 199000,
+      "category": "Laptop"
+    },
+    { "id": 2, "name": "iPhone 15 Pro", "price": 134000, "category": "Mobile" },
+    { "id": 3, "name": "Sony WH-1000XM5", "price": 28000, "category": "Audio" },
+    {
+      "id": 4,
+      "name": "Samsung 4K Monitor",
+      "price": 45000,
+      "category": "Display"
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch Ultra",
+      "price": 89000,
+      "category": "Wearable"
+    },
+    { "id": 6, "name": "iPad Pro M2", "price": 112000, "category": "Tablet" },
+    { "id": 7, "name": "RTX 4090 GPU", "price": 160000, "category": "PC Part" },
+    {
+      "id": 8,
+      "name": "Keychron K2 Keyboard",
+      "price": 8500,
+      "category": "Accessory"
+    },
+    {
+      "id": 9,
+      "name": "Logitech MX Master 3",
+      "price": 9500,
+      "category": "Accessory"
+    },
+    { "id": 10, "name": "GoPro Hero 12", "price": 42000, "category": "Camera" },
+    {
+      "id": 11,
+      "name": "Samsung 990 Pro SSD",
+      "price": 12000,
+      "category": "Storage"
+    },
+    {
+      "id": 12,
+      "name": "Anker 240W Charger",
+      "price": 5500,
+      "category": "Accessory"
+    }
+  ]
+}
