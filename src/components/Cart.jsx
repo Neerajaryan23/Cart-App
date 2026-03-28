@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { CartContext } from "../context/CartContext";
 import EmptyMsg from "./EmptyMsg";
-import backIcon from "../Photos/back.png";
+import backIcon from "../assets/Photos/back.png";
 
 const Cart = ({ goBack }) => {
   const { cart, increaseQty, decreaseQty, removeBtn } = useContext(CartContext);

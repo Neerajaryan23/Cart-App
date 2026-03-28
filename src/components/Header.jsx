@@ -1,5 +1,5 @@
 import CartItem from "./CartItem";
-import cartIcon from "../Photos/shopping-cart.png";
+import cartIcon from "../assets/Photos/shopping-cart.png";
 
 const Header = ({ showCart }) => {
   return (

@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { CartContext } from "../context/CartContext";
-import bagIcon from "../Photos/shopping-bag.png";
+import bagIcon from "../assets/Photos/shopping-bag.png";
 
 const CartItem = ({ showCart }) => {
   const { cart } = useContext(CartContext);
